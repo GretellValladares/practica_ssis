@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "PRACTICA_SSIS", "PRACTICA_SSIS\PRACTICA_SSIS.dtproj", "{5DE526B0-7E77-44C1-AB77-D11AEDF3576F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DE526B0-7E77-44C1-AB77-D11AEDF3576F}.Development|Default.ActiveCfg = Development
+		{5DE526B0-7E77-44C1-AB77-D11AEDF3576F}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C83D529-F277-4FC1-B580-3F86ACD5C402}
+	EndGlobalSection
+EndGlobal
